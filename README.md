@@ -61,6 +61,18 @@ g++ -pthread -std=c++11 [file_name].cpp -o [any_name]
 ./[any_name]
 ```
 
+## Required Inputs for the Project
+the files -- `MultiThreading.cpp` and `IPC.cpp` -- require specific inputs to be successfully executed
+### For MultiThreading.cpp
+it requires two `int` inputs for
+- number of Accounts
+- number of threads
+
+### For MultiThreading.cpp
+it requires two 
+
+
+
 
 
 
