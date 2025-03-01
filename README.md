@@ -69,7 +69,7 @@ it requires two `int` inputs:
 - number of Accounts
 - number of threads
 
-### For MultiThreading.cpp
+### For IPC.cpp
 it requires two `string` inputs:
 - name of a directory (ex. Desktop or Desktop/[directory_name]/...)
 - name of a file (does not require to be exact)
