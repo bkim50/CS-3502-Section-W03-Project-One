@@ -62,14 +62,17 @@ g++ -pthread -std=c++11 [file_name].cpp -o [any_name]
 ```
 
 ## Required Inputs for the Project
-the files -- `MultiThreading.cpp` and `IPC.cpp` -- require specific inputs to be successfully executed
+the files -- `MultiThreading.cpp` and `IPC.cpp` -- require specific inputs to be successfully executed<br/>
+the following inputs must be inputted through a `terminal`, while it compiles the program
 ### For MultiThreading.cpp
-it requires two `int` inputs for
+it requires two `int` inputs:
 - number of Accounts
 - number of threads
 
 ### For MultiThreading.cpp
-it requires two 
+it requires two `string` inputs:
+- name of a directory (ex. Desktop or Desktop/[directory_name]/...)
+- name of a file (does not require to be exact)
 
 
 
